@@ -24,9 +24,9 @@ To view this project in your preferred browser, follow these steps:
    
 Alternatively, you can use the Live Server extension in VS Code:
 
-1.Install the Live Server extension.
-2.Open the project in VS Code.
-3.Click on "Go Live" in the bottom right corner.
-4.The project will automatically open in your default browser.
+1. Install the Live Server extension.
+2. Open the project in VS Code.
+3. Click on "Go Live" in the bottom right corner.
+4. The project will automatically open in your default browser.
 
 Feel free to explore the features and functionalities of the Bank App!
